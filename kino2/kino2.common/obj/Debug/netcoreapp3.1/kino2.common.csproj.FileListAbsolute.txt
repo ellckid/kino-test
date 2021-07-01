@@ -1,0 +1,9 @@
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\bin\Debug\netcoreapp3.1\kino2.common.deps.json
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\bin\Debug\netcoreapp3.1\kino2.common.dll
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\bin\Debug\netcoreapp3.1\kino2.common.pdb
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.csprojAssemblyReference.cache
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.dll
+C:\Users\Артем\Desktop\Курсовая\kino test\kino2\kino2.common\obj\Debug\netcoreapp3.1\kino2.common.pdb

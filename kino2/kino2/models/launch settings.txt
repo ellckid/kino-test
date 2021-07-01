@@ -1,0 +1,7 @@
+"Auth": {
+    "Issuer": "authServer",
+    "Audience": "resourceServer",
+    "Secret": "MEGASECRET",
+    "TokenLifeTime": "3600" // в секундах
+  },
+  "AllowedHosts": "*"
